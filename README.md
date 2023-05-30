@@ -1,4 +1,4 @@
-## [My React Drum Machine App](https://marcofalotico.github.io/3_React_Drum_Machine_App/)
+## [My React Drum Machine App](https://marcofalotico.github.io/3_React_Drum_Machine_App.git/)
 
 # Getting Started with Create React App
 

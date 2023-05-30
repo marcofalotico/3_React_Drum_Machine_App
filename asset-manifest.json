@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/3_React_Drum_Machine_App.git/static/css/main.6ae9c43e.css",
-    "main.js": "/3_React_Drum_Machine_App.git/static/js/main.1e76c405.js",
-    "static/js/787.bb3478f5.chunk.js": "/3_React_Drum_Machine_App.git/static/js/787.bb3478f5.chunk.js",
-    "index.html": "/3_React_Drum_Machine_App.git/index.html",
-    "main.6ae9c43e.css.map": "/3_React_Drum_Machine_App.git/static/css/main.6ae9c43e.css.map",
-    "main.1e76c405.js.map": "/3_React_Drum_Machine_App.git/static/js/main.1e76c405.js.map",
-    "787.bb3478f5.chunk.js.map": "/3_React_Drum_Machine_App.git/static/js/787.bb3478f5.chunk.js.map"
+    "main.css": "/3_React_Drum_Machine_App/static/css/main.6ae9c43e.css",
+    "main.js": "/3_React_Drum_Machine_App/static/js/main.d39d5ef7.js",
+    "static/js/787.bb3478f5.chunk.js": "/3_React_Drum_Machine_App/static/js/787.bb3478f5.chunk.js",
+    "index.html": "/3_React_Drum_Machine_App/index.html",
+    "main.6ae9c43e.css.map": "/3_React_Drum_Machine_App/static/css/main.6ae9c43e.css.map",
+    "main.d39d5ef7.js.map": "/3_React_Drum_Machine_App/static/js/main.d39d5ef7.js.map",
+    "787.bb3478f5.chunk.js.map": "/3_React_Drum_Machine_App/static/js/787.bb3478f5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6ae9c43e.css",
-    "static/js/main.1e76c405.js"
+    "static/js/main.d39d5ef7.js"
   ]
 }
